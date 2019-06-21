@@ -1,1 +1,1 @@
-# pytorch_rookie
+# PyTorch Rookie
